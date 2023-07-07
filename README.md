@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **guanz42/guanz42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,38 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-      alt="go"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
-      alt="rust"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&center=true&width=435&lines=print(%22Hello+world!%22)" alt="Typing SVG" />
+  
+**「Stay hungry，Stay foolish.」** ❤️
+
+</div>
+
+### 💻 Tech Stack:
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/Go-%2300ADD8?logo=go&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/Rust-%23000000?logo=rust&logoColor=fff)
+
+  
+### 📊 GitHub Stats
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=guanz42&theme=nord&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guanz42&hide=c&theme=nord&langs_count=6&layout=compact" />
 </div>
 
-![](https://raw.githubusercontent.com/guanz42/guanz42/output/github-contribution-grid-snake.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&width=435&lines=print(%22Hello+world!%22))](https://git.io/typing-svg)
+![](https://raw.githubusercontent.com/guanz42/guanz42/output/github-contribution-grid-snake.svg)
