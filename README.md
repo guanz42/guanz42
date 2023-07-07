@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  
+
 **「Stay hungry，Stay foolish.」** ❤️
 
 ---
@@ -43,10 +43,13 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanz42&hide=c&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=guanz42&theme=tokyonight&show_icons=true&rank_icon=github&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guanz42&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<div align="left">
+  <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=guanz42&hide=c&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide_border=true" align="center" />
+  <img height='180' src="https://github-readme-stats.vercel.app/api?username=guanz42&theme=tokyonight&show_icons=true&rank_icon=github&hide_border=true" align="center" />
+</div>
+<br/>
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guanz42&theme=tokyo-night&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
