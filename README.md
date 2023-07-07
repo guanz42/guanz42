@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=guanz42&theme=nord&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guanz42&hide=c&theme=nord&langs_count=6&layout=compact" />
+</div>
+
+![](https://raw.githubusercontent.com/guanz42/guanz42/output/github-contribution-grid-snake.svg)
