@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
-<img src="https://media.giphy.com/media/c0NwRD0Vi5Cta/giphy.gif" />
-</div>
-
 ---
 
 ### Hi there 👋 
