@@ -25,18 +25,8 @@ Here are some ideas to get you started:
 ```toml
 [personal]
 name = 'Guanz42'
-city = 'CQ, China'
-email = 'guanz42 "at" gmail.com'
-
-[professional]
-title = 'Software Development Engineer'
 
 [bio]
-interests = [
-  'programming',
-  'linux',
-  'open-source',
-]
 programming-languages = [
   'Go',
   'Python',
